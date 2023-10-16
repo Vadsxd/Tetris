@@ -1,4 +1,4 @@
-# Indo
+# Info
 Game Tetris using HTML, CSS & JS.
 
 # Launch
