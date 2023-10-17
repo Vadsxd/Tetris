@@ -2,7 +2,7 @@
 Game Tetris using HTML, CSS & JS.
 
 # Launch
-Open <code>login.html</code>
+Open <code>index.html</code>
 
 # Deployed Page
 https://vadsxd.github.io/Tetris/
